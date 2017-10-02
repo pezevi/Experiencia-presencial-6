@@ -1,0 +1,25 @@
+body {
+  background-color: lightgrey;
+}
+
+#foto-personal {
+  width: 200px;
+  margin: 10px auto;
+  border-radius: 100px;
+  filter: grayscale(80%);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #337ab7;
+  font-weight: bold;
+}
+
+.container-principal {
+  background-color: white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
